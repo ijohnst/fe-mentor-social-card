@@ -47,6 +47,6 @@ Improving on the proper usage of flexbox, css variables and picking colors!
 
 ## Author
 
-- Website - [Add your name here](https://ianjdigital.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ijohnst)
+- Website - [Professional Portfolio](https://ianjdigital.com)
+- Frontend Mentor - [@ijohnst](https://www.frontendmentor.io/profile/ijohnst)
 
