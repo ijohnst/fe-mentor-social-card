@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ijohnst/fe-mentor-social-card)
-- Live Site URL: [Add live site URL here](https://ijohnst.github.io/fe-mentor-social-card/)
+- Solution URL: [https://github.com/ijohnst/fe-mentor-social-card](https://github.com/ijohnst/fe-mentor-social-card)
+- Live Site URL: [https://ijohnst.github.io/fe-mentor-social-card/](https://ijohnst.github.io/fe-mentor-social-card/)
 
 ## My process
 
